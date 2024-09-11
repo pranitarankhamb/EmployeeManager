@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+#formControl{
+	list-style-type:none;
+	background-color:pink;
+	
+}
+#formControl li{
+	display:block;
+	padding:10px;
+}
+#formControl li input{
+	 
+	width:400px;
+	height:40px;	
+}
